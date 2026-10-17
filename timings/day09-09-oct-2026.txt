@@ -1,0 +1,3 @@
+revised yesterdays lecture
+coding practice of Docker Integration with Jenkins & GitLab
+no introduction video yet
