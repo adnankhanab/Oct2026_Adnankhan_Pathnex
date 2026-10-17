@@ -1,0 +1,2 @@
+revised yesterdays lecture
+Automation with Terraform, Ansible, and CI/CD Pipelines
