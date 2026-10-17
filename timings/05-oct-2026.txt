@@ -1,0 +1,3 @@
+revised yesterdays lecture
+attended yesterdays evening session
+practiced Jenkinsfile — With Git Integration and Testing
