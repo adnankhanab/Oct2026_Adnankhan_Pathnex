@@ -1,0 +1,3 @@
+revised yesterdays lecture
+coding practice of Automating Cloud Infrastructure with Terraform & Ansible
+havent made any introductory video yet
