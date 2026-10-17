@@ -1,0 +1,3 @@
+revised yesterdays lecture
+done coding practice of Advanced Automation with CloudFormation and CI/CD
+
