@@ -1,0 +1,3 @@
+revised yesterdays lecture
+coding practice of Ansible — Create Docker Containers for Multiple Applications
+no introductory video yet
