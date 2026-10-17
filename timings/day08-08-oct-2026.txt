@@ -1,0 +1,3 @@
+revised yesterdays lecture
+coding practice of Introduction to Docker and CI/CD Pipelines
+havent made any intrductory video
