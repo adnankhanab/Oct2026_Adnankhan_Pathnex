@@ -1,0 +1,4 @@
+Revised yesterdays lecture
+practiced Ansible — Install Docker
+havent made introductory video yet
+
