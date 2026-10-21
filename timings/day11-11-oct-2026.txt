@@ -1,0 +1,3 @@
+revised yesterdays lecture
+coding practice of Kubernetes with Helm, Advanced Terraform and GitLab CI/CD.
+no introductory video yet
