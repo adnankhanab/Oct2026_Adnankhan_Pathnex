@@ -1,0 +1,2 @@
+revised yesterdays morning session lecture
+practiced coding of Ansible — Create and Start EC2 Instances
