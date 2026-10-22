@@ -1,0 +1,3 @@
+revised yesterdays lecture
+coding practice of Multi-Cluster Kubernetes Management
+attended evening class
