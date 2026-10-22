@@ -1,0 +1,4 @@
+revised yesterdays lecture
+attended evening session
+coding practice of Ansible — Configure HAProxy for Load Balancing
+
