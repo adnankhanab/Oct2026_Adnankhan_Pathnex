@@ -1,0 +1,3 @@
+revised yesterdays lecture
+attended evening classes
+coding practice of Ansible — Setup Prometheus for Monitoring
