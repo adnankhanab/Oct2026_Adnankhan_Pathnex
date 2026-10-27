@@ -1,0 +1,4 @@
+revised yesterdays lecture
+coding practice of Ansible — Deploy Serverless Lambda Functions
+attended evening lecture
+made an introductory video
