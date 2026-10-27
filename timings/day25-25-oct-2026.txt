@@ -1,0 +1,4 @@
+revised yesterdays lecture
+coding practice of Ansible — Setup Prometheus Node Exporter for Monitoring
+attended evening class
+made an introductory video
