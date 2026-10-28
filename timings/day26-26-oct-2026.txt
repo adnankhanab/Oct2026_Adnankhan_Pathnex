@@ -1,0 +1,4 @@
+revised yesterdays lecture
+evening session was called off
+coding practice of Ansible — Implementing SSH Key-based Authentication
+made introductory video
