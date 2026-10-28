@@ -1,0 +1,4 @@
+attended morning lecture
+attended evening lecture
+coding practice for 30 minutes on topic Advanced Networking with VPCs and Peering
+made an introductory video
