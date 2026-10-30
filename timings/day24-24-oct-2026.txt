@@ -1,0 +1,3 @@
+revised yesterdays lecture
+coding practice of Advanced Terraform Modules and CI/CD Pipeline Scaling
+attended evening class
